@@ -1,0 +1,140 @@
+MEGAHIT-MaxBin2-test_minigut.001.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '21.32'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.72836'
+  translation_table: '11'
+MEGAHIT-MaxBin2-test_minigut.002.fa:
+  classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  classification_method: taxonomic classification defined by topology and ANI
+  closest_genome_af: '0.806'
+  closest_genome_ani: '96.58'
+  closest_genome_reference: GCF_003697165.2
+  closest_genome_reference_radius: '95.0'
+  closest_genome_taxonomy: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  closest_placement_radius: '95.0'
+  closest_placement_reference: GCA_900314825.1
+  closest_placement_taxonomy: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C
+    sp900314825
+  msa_percent: '17.66'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  translation_table: '11'
+MEGAHIT-MetaBAT2-test_minigut.1.fa:
+  classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  classification_method: taxonomic classification defined by topology and ANI
+  closest_genome_af: '0.849'
+  closest_genome_ani: '96.59'
+  closest_genome_reference: GCF_003697165.2
+  closest_genome_reference_radius: '95.0'
+  closest_genome_taxonomy: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  closest_placement_radius: '95.0'
+  closest_placement_reference: GCA_900314825.1
+  closest_placement_taxonomy: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C
+    sp900314825
+  msa_percent: '16.39'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  translation_table: '11'
+MEGAHIT-MetaBAT2-test_minigut.2.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '21.32'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.72836'
+  translation_table: '11'
+MEGAHIT-MetaBAT2-test_minigut.unbinned.1.fa: {}
+MEGAHIT-MetaBAT2-test_minigut.unbinned.2.fa: {}
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1.fa: {}
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2.fa: {}
+MEGAHIT-SemiBin2-test_minigut_0.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '26.57'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.69764'
+  translation_table: '11'
+SPAdes-MaxBin2-test_minigut.001.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '21.32'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.72836'
+  translation_table: '11'
+SPAdes-MaxBin2-test_minigut.002.fa:
+  classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  classification_method: taxonomic classification defined by topology and ANI
+  closest_genome_af: '0.831'
+  closest_genome_ani: '96.85'
+  closest_genome_reference: GCF_003697165.2
+  closest_genome_reference_radius: '95.0'
+  closest_genome_taxonomy: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  closest_placement_radius: '95.0'
+  closest_placement_reference: GCA_900314825.1
+  closest_placement_taxonomy: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C
+    sp900314825
+  msa_percent: '19.12'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  translation_table: '11'
+SPAdes-MaxBin2-test_minigut_sample2.001.fa:
+  classification: Unclassified Bacteria
+  warnings: Insufficient number of amino acids in MSA (3.3%)
+SPAdes-MaxBin2-test_minigut_sample2.noclass.1.fa: {}
+SPAdes-MaxBin2-test_minigut_sample2.noclass.2.fa: {}
+SPAdes-MetaBAT2-test_minigut.1.fa:
+  classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  classification_method: taxonomic classification defined by topology and ANI
+  closest_genome_af: '0.849'
+  closest_genome_ani: '96.85'
+  closest_genome_reference: GCF_003697165.2
+  closest_genome_reference_radius: '95.0'
+  closest_genome_taxonomy: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  closest_placement_radius: '95.0'
+  closest_placement_reference: GCA_900314825.1
+  closest_placement_taxonomy: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C
+    sp900314825
+  msa_percent: '19.12'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  translation_table: '11'
+SPAdes-MetaBAT2-test_minigut.2.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '21.32'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.72836'
+  translation_table: '11'
+SPAdes-MetaBAT2-test_minigut.unbinned.1.fa: {}
+SPAdes-MetaBAT2-test_minigut.unbinned.2.fa: {}
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1.fa: {}
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2.fa: {}
+SPAdes-SemiBin2-test_minigut_0.fa:
+  classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+  classification_method: taxonomic novelty determined using RED
+  msa_percent: '21.32'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  red_value: '0.72836'
+  translation_table: '11'
+SPAdes-SemiBin2-test_minigut_1.fa:
+  classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  classification_method: taxonomic classification defined by topology and ANI
+  closest_genome_af: '0.833'
+  closest_genome_ani: '96.85'
+  closest_genome_reference: GCF_003697165.2
+  closest_genome_reference_radius: '95.0'
+  closest_genome_taxonomy: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+  closest_placement_radius: '95.0'
+  closest_placement_reference: GCA_900314825.1
+  closest_placement_taxonomy: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C
+    sp900314825
+  msa_percent: '19.12'
+  pplacer_taxonomy: d__Bacteria;p__;c__;o__;f__;g__;s__
+  translation_table: '11'

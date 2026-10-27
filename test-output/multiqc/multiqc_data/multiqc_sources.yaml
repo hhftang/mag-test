@@ -1,0 +1,117 @@
+BUSCO:
+  all_sections:
+    short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/73/short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.001.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/74/short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.002.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/58/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.1.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/59/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.2.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/68/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.1.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/69/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.2.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/62/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/63/short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2.fa.txt
+    short_summary.specific.bacteria_odb10.MEGAHIT-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/72/short_summary.specific.bacteria_odb10.MEGAHIT-SemiBin2-test_minigut_0.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/75/short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.001.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/76/short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.002.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/57/short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.001.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/66/short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.1.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/67/short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.2.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/60/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.1.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/61/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.2.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/70/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.1.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/71/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.2.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/64/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/65/short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/55/short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_0.fa.txt
+    short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/56/short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_1.fa.txt
+'Bowtie2: PhiX removal':
+  all_sections:
+    test_minigut_run1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/13/test_minigut_run1_phix_removed.bowtie2.log
+    test_minigut_run2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/16/test_minigut_run2_phix_removed.bowtie2.log
+    test_minigut_sample2_run0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/12/test_minigut_sample2_run0_phix_removed.bowtie2.log
+'Bowtie2: assembly':
+  all_sections:
+    MEGAHIT-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/30/MEGAHIT-test_minigut.bowtie2.log
+    MEGAHIT-test_minigut-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/29/MEGAHIT-test_minigut-test_minigut_sample2.bowtie2.log
+    MEGAHIT-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/26/MEGAHIT-test_minigut_sample2.bowtie2.log
+    MEGAHIT-test_minigut_sample2-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/25/MEGAHIT-test_minigut_sample2-test_minigut.bowtie2.log
+    SPAdes-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/32/SPAdes-test_minigut.bowtie2.log
+    SPAdes-test_minigut-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/31/SPAdes-test_minigut-test_minigut_sample2.bowtie2.log
+    SPAdes-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/28/SPAdes-test_minigut_sample2.bowtie2.log
+    SPAdes-test_minigut_sample2-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/27/SPAdes-test_minigut_sample2-test_minigut.bowtie2.log
+'FastQC: after preprocessing':
+  all_sections:
+    test_minigut_run1_trimmed_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/17/test_minigut_run1_trimmed_1_fastqc.zip
+    test_minigut_run1_trimmed_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/18/test_minigut_run1_trimmed_2_fastqc.zip
+    test_minigut_run2_trimmed_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/19/test_minigut_run2_trimmed_1_fastqc.zip
+    test_minigut_run2_trimmed_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/20/test_minigut_run2_trimmed_2_fastqc.zip
+    test_minigut_sample2_run0_trimmed_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/14/test_minigut_sample2_run0_trimmed_1_fastqc.zip
+    test_minigut_sample2_run0_trimmed_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/15/test_minigut_sample2_run0_trimmed_2_fastqc.zip
+'FastQC: raw reads':
+  all_sections:
+    test_minigut_run1_raw_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/3/test_minigut_run1_raw_1_fastqc.zip
+    test_minigut_run1_raw_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/4/test_minigut_run1_raw_2_fastqc.zip
+    test_minigut_run2_raw_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/5/test_minigut_run2_raw_1_fastqc.zip
+    test_minigut_run2_raw_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/6/test_minigut_run2_raw_2_fastqc.zip
+    test_minigut_sample2_run0_raw_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/7/test_minigut_sample2_run0_raw_1_fastqc.zip
+    test_minigut_sample2_run0_raw_2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/8/test_minigut_sample2_run0_raw_2_fastqc.zip
+GTDB-Tk:
+  all_sections:
+    gtdbtk: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/99/gtdbtk_summary.tsv
+Prokka:
+  all_sections:
+    MEGAHIT-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/94/MEGAHIT-MaxBin2-test_minigut.001.txt
+    MEGAHIT-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/96/MEGAHIT-MaxBin2-test_minigut.002.txt
+    MEGAHIT-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/78/MEGAHIT-MetaBAT2-test_minigut.1.txt
+    MEGAHIT-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/83/MEGAHIT-MetaBAT2-test_minigut.2.txt
+    MEGAHIT-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/93/MEGAHIT-MetaBAT2-test_minigut.unbinned.1.txt
+    MEGAHIT-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/87/MEGAHIT-MetaBAT2-test_minigut.unbinned.2.txt
+    MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/81/MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1.txt
+    MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/82/MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2.txt
+    MEGAHIT-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/95/MEGAHIT-SemiBin2-test_minigut_0.txt
+    SPAdes-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/98/SPAdes-MaxBin2-test_minigut.001.txt
+    SPAdes-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/97/SPAdes-MaxBin2-test_minigut.002.txt
+    SPAdes-MaxBin2-test_minigut_sample2.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/77/SPAdes-MaxBin2-test_minigut_sample2.001.txt
+    SPAdes-MaxBin2-test_minigut_sample2.noclass.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/85/SPAdes-MaxBin2-test_minigut_sample2.noclass.1.txt
+    SPAdes-MaxBin2-test_minigut_sample2.noclass.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/86/SPAdes-MaxBin2-test_minigut_sample2.noclass.2.txt
+    SPAdes-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/88/SPAdes-MetaBAT2-test_minigut.1.txt
+    SPAdes-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/89/SPAdes-MetaBAT2-test_minigut.2.txt
+    SPAdes-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/90/SPAdes-MetaBAT2-test_minigut.unbinned.1.txt
+    SPAdes-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/92/SPAdes-MetaBAT2-test_minigut.unbinned.2.txt
+    SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/84/SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1.txt
+    SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/91/SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2.txt
+    SPAdes-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/79/SPAdes-SemiBin2-test_minigut_0.txt
+    SPAdes-SemiBin2-test_minigut_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/80/SPAdes-SemiBin2-test_minigut_1.txt
+'QUAST: assembly':
+  all_sections:
+    MEGAHIT-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/23/report_rawassemblies.tsv
+    MEGAHIT-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/21/report_rawassemblies.tsv
+    SPAdes-test_minigut: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/24/report_rawassemblies.tsv
+    SPAdes-test_minigut_sample2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/22/report_rawassemblies.tsv
+'QUAST: bins':
+  all_sections:
+    MEGAHIT-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/51/MEGAHIT-MaxBin2-test_minigut.001.fa.gz/report.tsv
+    MEGAHIT-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/52/MEGAHIT-MaxBin2-test_minigut.002.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/36/MEGAHIT-MetaBAT2-test_minigut.1.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/37/MEGAHIT-MetaBAT2-test_minigut.2.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/44/MEGAHIT-MetaBAT2-test_minigut.unbinned.1.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/45/MEGAHIT-MetaBAT2-test_minigut.unbinned.2.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/40/MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1.fa.gz/report.tsv
+    MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/41/MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2.fa.gz/report.tsv
+    MEGAHIT-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/50/MEGAHIT-SemiBin2-test_minigut_0.fa.gz/report.tsv
+    SPAdes-MaxBin2-test_minigut.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/53/SPAdes-MaxBin2-test_minigut.001.fa.gz/report.tsv
+    SPAdes-MaxBin2-test_minigut.002: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/54/SPAdes-MaxBin2-test_minigut.002.fa.gz/report.tsv
+    SPAdes-MaxBin2-test_minigut_sample2.001: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/33/SPAdes-MaxBin2-test_minigut_sample2.001.fa.gz/report.tsv
+    SPAdes-MaxBin2-test_minigut_sample2.noclass.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/46/SPAdes-MaxBin2-test_minigut_sample2.noclass.1.fa.gz/report.tsv
+    SPAdes-MaxBin2-test_minigut_sample2.noclass.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/47/SPAdes-MaxBin2-test_minigut_sample2.noclass.2.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/38/SPAdes-MetaBAT2-test_minigut.1.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/39/SPAdes-MetaBAT2-test_minigut.2.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/48/SPAdes-MetaBAT2-test_minigut.unbinned.1.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/49/SPAdes-MetaBAT2-test_minigut.unbinned.2.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/42/SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1.fa.gz/report.tsv
+    SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/43/SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2.fa.gz/report.tsv
+    SPAdes-SemiBin2-test_minigut_0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/34/SPAdes-SemiBin2-test_minigut_0.fa.gz/report.tsv
+    SPAdes-SemiBin2-test_minigut_1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/35/SPAdes-SemiBin2-test_minigut_1.fa.gz/report.tsv
+fastp:
+  all_sections:
+    test_minigut_run1: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/10/test_minigut_run1_fastp.fastp.json
+    test_minigut_run2: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/11/test_minigut_run2_fastp.fastp.json
+    test_minigut_sample2_run0: /home/hhftang/Projects/nextflow/mag-test/work/5f/718a788cce01890eed3bc6cb4a7a09/9/test_minigut_sample2_run0_fastp.fastp.json

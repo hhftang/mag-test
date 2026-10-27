@@ -1,0 +1,75 @@
+MEGAHIT-MaxBin2-test_minigut.001.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__Selenomonadaceae; g__; s__
+  RED: 0.72836
+MEGAHIT-MaxBin2-test_minigut.002.fa:
+  AF to closest genome: 0.806
+  ANI to closest genome: 96.58
+  Classification: s__Escherichia coli
+  Classification method: taxonomic classification defined by topology and ANI
+  Full classification: d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales;
+    f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli
+MEGAHIT-MetaBAT2-test_minigut.1.fa:
+  AF to closest genome: 0.849
+  ANI to closest genome: 96.59
+  Classification: s__Escherichia coli
+  Classification method: taxonomic classification defined by topology and ANI
+  Full classification: d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales;
+    f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli
+MEGAHIT-MetaBAT2-test_minigut.2.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__Selenomonadaceae; g__; s__
+  RED: 0.72836
+MEGAHIT-SemiBin2-test_minigut_0.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__; g__; s__
+  RED: 0.69764
+SPAdes-MaxBin2-test_minigut.001.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__Selenomonadaceae; g__; s__
+  RED: 0.72836
+SPAdes-MaxBin2-test_minigut.002.fa:
+  AF to closest genome: 0.831
+  ANI to closest genome: 96.85
+  Classification: s__Escherichia coli
+  Classification method: taxonomic classification defined by topology and ANI
+  Full classification: d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales;
+    f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli
+SPAdes-MaxBin2-test_minigut_sample2.001.fa:
+  Classification: Unclassified Bacteria
+  Full classification: Unclassified Bacteria
+  Warnings: Insufficient number of amino acids in MSA (3.3%)
+SPAdes-MetaBAT2-test_minigut.1.fa:
+  AF to closest genome: 0.849
+  ANI to closest genome: 96.85
+  Classification: s__Escherichia coli
+  Classification method: taxonomic classification defined by topology and ANI
+  Full classification: d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales;
+    f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli
+SPAdes-MetaBAT2-test_minigut.2.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__Selenomonadaceae; g__; s__
+  RED: 0.72836
+SPAdes-SemiBin2-test_minigut_0.fa:
+  Classification: s__
+  Classification method: taxonomic novelty determined using RED
+  Full classification: d__Bacteria; p__Bacillota; c__Negativicutes; o__Selenomonadales;
+    f__Selenomonadaceae; g__; s__
+  RED: 0.72836
+SPAdes-SemiBin2-test_minigut_1.fa:
+  AF to closest genome: 0.833
+  ANI to closest genome: 96.85
+  Classification: s__Escherichia coli
+  Classification method: taxonomic classification defined by topology and ANI
+  Full classification: d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales;
+    f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli

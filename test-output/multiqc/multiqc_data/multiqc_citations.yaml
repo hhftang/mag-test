@@ -1,0 +1,16 @@
+MultiQC:
+- 10.1093/bioinformatics/btw354
+bowtie2:
+- 10.1038/nmeth.1923
+- 10.1038/nmeth.3317
+- 10.1038/s41587-019-0201-4
+busco:
+- 10.1093/bioinformatics/btv351
+fastp:
+- 10.1093/bioinformatics/bty560
+gtdbtk:
+- 10.1093/bioinformatics/btac672
+prokka:
+- 10.1093/bioinformatics/btu153
+quast:
+- 10.1093/bioinformatics/btt086

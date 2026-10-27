@@ -1,0 +1,77 @@
+- - .
+  - Basic Statistics
+  - Per Base Sequence Quality
+  - Per Sequence Quality Scores
+  - Per Base Sequence Content
+  - Per Sequence GC Content
+  - Per Base N Content
+  - Sequence Length Distribution
+  - Sequence Duplication Levels
+  - Overrepresented Sequences
+  - Adapter Content
+- - test_minigut_run1_raw_1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- - test_minigut_run1_raw_2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- - test_minigut_run2_raw_1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- - test_minigut_run2_raw_2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- - test_minigut_sample2_run0_raw_1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.25
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+- - test_minigut_sample2_run0_raw_2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.25
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1

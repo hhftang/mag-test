@@ -1,0 +1,18 @@
+test_minigut_run1_trimmed_1:
+  Duplicate Reads: '658.0'
+  Unique Reads: '49152.0'
+test_minigut_run1_trimmed_2:
+  Duplicate Reads: '599.0'
+  Unique Reads: '49211.0'
+test_minigut_run2_trimmed_1:
+  Duplicate Reads: '658.0'
+  Unique Reads: '49152.0'
+test_minigut_run2_trimmed_2:
+  Duplicate Reads: '599.0'
+  Unique Reads: '49211.0'
+test_minigut_sample2_run0_trimmed_1:
+  Duplicate Reads: '51.0'
+  Unique Reads: '24938.0'
+test_minigut_sample2_run0_trimmed_2:
+  Duplicate Reads: '37.0'
+  Unique Reads: '24952.0'

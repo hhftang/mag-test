@@ -1,0 +1,154 @@
+MEGAHIT-MaxBin2-test_minigut.001:
+  L50 (K): 0.009000000000000001
+  L75 (K): 0.02
+  Largest contig (Kbp): 94.357
+  Length (Mbp): 0.905798
+  N50 (Kbp): 27.060000000000002
+  N75 (Kbp): 15.69
+MEGAHIT-MaxBin2-test_minigut.002:
+  L50 (K): 0.036000000000000004
+  L75 (K): 0.07200000000000001
+  Largest contig (Kbp): 20.088
+  Length (Mbp): 0.813006
+  N50 (Kbp): 7.392
+  N75 (Kbp): 4.444
+MEGAHIT-MetaBAT2-test_minigut.1:
+  L50 (K): 0.032
+  L75 (K): 0.064
+  Largest contig (Kbp): 20.088
+  Length (Mbp): 0.753319
+  N50 (Kbp): 7.909
+  N75 (Kbp): 4.61
+MEGAHIT-MetaBAT2-test_minigut.2:
+  L50 (K): 0.007
+  L75 (K): 0.016
+  Largest contig (Kbp): 94.357
+  Length (Mbp): 0.79187
+  N50 (Kbp): 27.638
+  N75 (Kbp): 17.071
+MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 27.154
+  Length (Mbp): 0.027153999999999998
+  N50 (Kbp): 27.154
+  N75 (Kbp): 27.154
+MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 21.29
+  Length (Mbp): 0.02129
+  N50 (Kbp): 21.29
+  N75 (Kbp): 21.29
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 6.4510000000000005
+  Length (Mbp): 0.006451
+  N50 (Kbp): 6.4510000000000005
+  N75 (Kbp): 6.4510000000000005
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 3.2520000000000002
+  Length (Mbp): 0.0032519999999999997
+  N50 (Kbp): 3.2520000000000002
+  N75 (Kbp): 3.2520000000000002
+MEGAHIT-SemiBin2-test_minigut_0:
+  L50 (K): 0.031
+  L75 (K): 0.077
+  Largest contig (Kbp): 94.357
+  Length (Mbp): 1.705557
+  N50 (Kbp): 12.973
+  N75 (Kbp): 6.589
+SPAdes-MaxBin2-test_minigut.001:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 874.975
+  Length (Mbp): 0.8861819999999999
+  N50 (Kbp): 874.975
+  N75 (Kbp): 874.975
+SPAdes-MaxBin2-test_minigut.002:
+  L50 (K): 0.007
+  L75 (K): 0.013000000000000001
+  Largest contig (Kbp): 126.407
+  Length (Mbp): 0.851924
+  N50 (Kbp): 37.607
+  N75 (Kbp): 31.969
+SPAdes-MaxBin2-test_minigut_sample2.001:
+  L50 (K): 0.04
+  L75 (K): 0.075
+  Largest contig (Kbp): 7.6290000000000004
+  Length (Mbp): 0.183143
+  N50 (Kbp): 1.5230000000000001
+  N75 (Kbp): 1.159
+SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 2.705
+  Length (Mbp): 0.002705
+  N50 (Kbp): 2.705
+  N75 (Kbp): 2.705
+SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 2.461
+  Length (Mbp): 0.002461
+  N50 (Kbp): 2.461
+  N75 (Kbp): 2.461
+SPAdes-MetaBAT2-test_minigut.1:
+  L50 (K): 0.006
+  L75 (K): 0.012
+  Largest contig (Kbp): 126.407
+  Length (Mbp): 0.7959379999999999
+  N50 (Kbp): 40.446
+  N75 (Kbp): 32.573
+SPAdes-MetaBAT2-test_minigut.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 874.975
+  Length (Mbp): 0.874975
+  N50 (Kbp): 874.975
+  N75 (Kbp): 874.975
+SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 17.55
+  Length (Mbp): 0.01755
+  N50 (Kbp): 17.55
+  N75 (Kbp): 17.55
+SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 17.117
+  Length (Mbp): 0.017117
+  N50 (Kbp): 17.117
+  N75 (Kbp): 17.117
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 7.6290000000000004
+  Length (Mbp): 0.0076289999999999995
+  N50 (Kbp): 7.6290000000000004
+  N75 (Kbp): 7.6290000000000004
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 6.4510000000000005
+  Length (Mbp): 0.006451
+  N50 (Kbp): 6.4510000000000005
+  N75 (Kbp): 6.4510000000000005
+SPAdes-SemiBin2-test_minigut_0:
+  L50 (K): 0.001
+  L75 (K): 0.001
+  Largest contig (Kbp): 874.975
+  Length (Mbp): 0.874975
+  N50 (Kbp): 874.975
+  N75 (Kbp): 874.975
+SPAdes-SemiBin2-test_minigut_1:
+  L50 (K): 0.007
+  L75 (K): 0.013000000000000001
+  Largest contig (Kbp): 126.407
+  Length (Mbp): 0.844008
+  N50 (Kbp): 37.607
+  N75 (Kbp): 31.969

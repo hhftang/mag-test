@@ -1,0 +1,62 @@
+executor >  local (188)
+[78/f0db64] NFCORE_MAG:MAG:SHORTREAD_PREPROCESSING:FASTQC_RAW (test_minigut_sample2_run0_raw)                            [100%] 3 of 3 ✔
+[47/9caa44] NFCORE_MAG:MAG:SHORTREAD_PREPROCESSING:FASTP (test_minigut_run2)                                             [100%] 3 of 3 ✔
+[00/72d9d9] NFC…_MAG:MAG:SHORTREAD_PREPROCESSING:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz) [100%] 1 of 1 ✔
+[05/3ff23b] NFCORE_MAG:MAG:SHORTREAD_PREPROCESSING:BOWTIE2_PHIX_REMOVAL_ALIGN (test_minigut_run2)                        [100%] 3 of 3 ✔
+[e5/ce4f80] NFCORE_MAG:MAG:SHORTREAD_PREPROCESSING:FASTQC_TRIMMED (test_minigut_run2)                                    [100%] 3 of 3 ✔
+[d4/c5bedc] NFCORE_MAG:MAG:SHORTREAD_PREPROCESSING:CAT_FASTQ (test_minigut)                                              [100%] 1 of 1 ✔
+[-        ] NFCORE_MAG:MAG:LONGREAD_PREPROCESSING:NANOPLOT_RAW                                                           -
+[-        ] NFCORE_MAG:MAG:LONGREAD_PREPROCESSING:PORECHOP_ABI                                                           -
+[-        ] NFCORE_MAG:MAG:LONGREAD_PREPROCESSING:CHOPPER                                                                -
+[-        ] NFCORE_MAG:MAG:LONGREAD_PREPROCESSING:NANOPLOT_FILTERED                                                      -
+[-        ] NFCORE_MAG:MAG:LONGREAD_PREPROCESSING:CAT_FASTQ_LONGREADS                                                    -
+[-        ] NFCORE_MAG:MAG:ASSEMBLY:POOL_LONG_READS                                                                      -
+[6c/ca9ed9] NFCORE_MAG:MAG:ASSEMBLY:SHORTREAD_ASSEMBLY:METASPADES (test_minigut)                                         [100%] 2 of 2 ✔
+[a9/77d4de] NFCORE_MAG:MAG:ASSEMBLY:SHORTREAD_ASSEMBLY:MEGAHIT (test_minigut)                                            [100%] 2 of 2 ✔
+[-        ] NFCORE_MAG:MAG:ASSEMBLY:HYBRID_ASSEMBLY:METASPADESHYBRID                                                     -
+[-        ] NFCORE_MAG:MAG:ASSEMBLY:LONGREAD_ASSEMBLY:FLYE                                                               -
+[-        ] NFCORE_MAG:MAG:ASSEMBLY:LONGREAD_ASSEMBLY:METAMDBG_ASM                                                       -
+[19/f28b67] NFCORE_MAG:MAG:ASSEMBLY:GUNZIP_SHORTREAD_ASSEMBLIES (SPAdes-test_minigut)                                    [100%] 4 of 4 ✔
+[-        ] NFCORE_MAG:MAG:ASSEMBLY:GUNZIP_LONGREAD_ASSEMBLIES                                                           -
+[5d/e9db89] NFCORE_MAG:MAG:QUAST (SPAdes-test_minigut)                                                                   [100%] 4 of 4 ✔
+[ae/7bcdb7] NFCORE_MAG:MAG:PRODIGAL (SPAdes-test_minigut)                                                                [100%] 4 of 4 ✔
+[b4/874153] NFC…E_MAG:MAG:BINNING_PREPARATION:SHORTREAD_BINNING_PREPARATION:BOWTIE2_ASSEMBLY_BUILD (SPAdes-test_minigut) [100%] 4 of 4 ✔
+[42/2d0253] NFC…NING_PREPARATION:SHORTREAD_BINNING_PREPARATION:BOWTIE2_ASSEMBLY_ALIGN (SPAdes-test_minigut-test_minigut) [100%] 8 of 8 ✔
+[-        ] NFCORE_MAG:MAG:BINNING_PREPARATION:LONGREAD_BINNING_PREPARATION:MINIMAP2_ASSEMBLY_INDEX                      -
+[-        ] NFCORE_MAG:MAG:BINNING_PREPARATION:LONGREAD_BINNING_PREPARATION:MINIMAP2_ASSEMBLY_ALIGN                      -
+[-        ] NFCORE_MAG:MAG:BINNING:METABAT2_JGISUMMARIZEBAMCONTIGDEPTHS_LONGREAD                                         -
+[7a/4d3013] NFCORE_MAG:MAG:BINNING:METABAT2_JGISUMMARIZEBAMCONTIGDEPTHS_SHORTREAD (SPAdes-test_minigut)                  [100%] 4 of 4 ✔
+[b8/964211] NFCORE_MAG:MAG:BINNING:CONVERT_DEPTHS (SPAdes-test_minigut)                                                  [100%] 4 of 4 ✔
+[c2/c64140] NFCORE_MAG:MAG:BINNING:METABAT2_METABAT2 (SPAdes-test_minigut)                                               [100%] 4 of 4 ✔
+[b9/193bb9] NFCORE_MAG:MAG:BINNING:MAXBIN2 (SPAdes-test_minigut)                                                         [100%] 4 of 4, ignored: 1 ✔
+[b2/8760a0] NFCORE_MAG:MAG:BINNING:SEMIBIN_SINGLEEASYBIN (MEGAHIT-test_minigut)                                          [100%] 4 of 4 ✔
+[fc/80beb3] NFCORE_MAG:MAG:BINNING:SEQKIT_STATS (SPAdes-MaxBin2-test_minigut)                                            [100%] 7 of 7 ✔
+[bf/e0ad1c] NFCORE_MAG:MAG:BINNING:SPLIT_FASTA (SPAdes-MaxBin2-test_minigut)                                             [100%] 7 of 7 ✔
+[91/b783ba] NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (SPAdes-MaxBin2-test_minigut)                                               [100%] 9 of 9 ✔
+[30/a40036] NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS_SUMMARY                                                                     [100%] 1 of 1 ✔
+[c9/a00389] NFCORE_MAG:MAG:BIN_QC:BUSCO_UNTAR (bacteria_odb10.2024-01-08.tar.gz)                                         [100%] 1 of 1 ✔
+[66/481167] NFCORE_MAG:MAG:BIN_QC:BUSCO_BUSCO (SPAdes-MaxBin2-unclassified-test_minigut)                                 [100%] 12 of 12 ✔
+[de/2d890c] NFCORE_MAG:MAG:BIN_QC:CONCAT_BUSCO_TSV (busco)                                                               [100%] 1 of 1 ✔
+[1d/b0f8fe] NFCORE_MAG:MAG:QUAST_BINS (SPAdes-MaxBin2-unclassified-test_minigut)                                         [100%] 12 of 12 ✔
+[49/442fb8] NFCORE_MAG:MAG:CONCAT_QUAST_SUMMARY (quast_bin_summary)                                                      [100%] 1 of 1 ✔
+[92/166fa3] NFCORE_MAG:MAG:CATPACK:CATPACK_DB_UNTAR (minigut_cat.tar.gz)                                                 [100%] 1 of 1 ✔
+[63/64a5a7] NFCORE_MAG:MAG:CATPACK:CATPACK_BINS (SPAdes-MaxBin2-test_minigut)                                            [100%] 7 of 7 ✔
+[8e/c1ce8c] NFCORE_MAG:MAG:CATPACK:CATPACK_ADDNAMES_BINS (SPAdes-MaxBin2-test_minigut)                                   [100%] 7 of 7 ✔
+[77/f06bbf] NFCORE_MAG:MAG:CATPACK:CATPACK_SUMMARISE_BINS (SPAdes-MaxBin2-test_minigut)                                  [100%] 7 of 7 ✔
+[ff/39f857] NFCORE_MAG:MAG:CATPACK:CONCAT_UNBINS (SPAdes-MetaBAT2-test_minigut)                                          [100%] 5 of 5 ✔
+[fb/111af1] NFCORE_MAG:MAG:CATPACK:CATPACK_UNBINS (SPAdes-MetaBAT2-test_minigut)                                         [100%] 5 of 5 ✔
+[8f/2dba8b] NFCORE_MAG:MAG:CATPACK:CATPACK_ADDNAMES_UNBINS (SPAdes-MetaBAT2-test_minigut)                                [100%] 5 of 5 ✔
+[0e/d626c4] NFCORE_MAG:MAG:CATPACK:CATPACK_SUMMARISE_UNBINS (SPAdes-MetaBAT2-test_minigut)                               [100%] 5 of 5 ✔
+[1e/de63ea] NFCORE_MAG:MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_mockup_r232_20260507.tar.gz)                             [100%] 1 of 1 ✔
+[8b/c3d367] NFCORE_MAG:MAG:GTDBTK:GTDBTK_CLASSIFYWF (SPAdes-MaxBin2-unclassified-test_minigut)                           [100%] 7 of 7 ✔
+[d4/01433a] NFCORE_MAG:MAG:GTDBTK:GTDBTK_SUMMARY                                                                         [100%] 1 of 1 ✔
+[26/92a8bd] NFCORE_MAG:MAG:BIN_SUMMARY (1)                                                                               [100%] 1 of 1 ✔
+[eb/a296b4] NFCORE_MAG:MAG:PROKKA (SPAdes-MaxBin2-test_minigut.001)                                                      [100%] 22 of 22 ✔
+[5f/718a78] NFCORE_MAG:MAG:MULTIQC (mag)                                                                                 [100%] 1 of 1 ✔
+-[nf-core/mag] Pipeline completed successfully, but with errored process(es) -
+Completed at: 28-Oct-2026 00:53:41
+Duration    : 13m 23s
+CPU hours   : 1.4 (5.8% failed)
+Succeeded   : 187
+Ignored     : 1
+Failed      : 1

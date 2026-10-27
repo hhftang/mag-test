@@ -1,0 +1,62 @@
+------------------------------------------------------
+                                        ,--./,-.
+        ___     __   __   __   ___     /,-._.--~'
+  |\ | |__  __ /  ` /  \ |__) |__         }  {
+  | \| |       \__, \__/ |  \ |___     \`-._,-`-,
+                                        `._,._,'
+  nf-core/mag 5.5.0
+------------------------------------------------------
+
+Input/output options
+  input                      : https://raw.githubusercontent.com/nf-core/test-datasets/mag/samplesheets/samplesheet.multirun.v4.csv
+  outdir                     : test-output
+
+Institutional config options
+  config_profile_name        : Test profile
+  config_profile_description : Minimal test dataset to check pipeline function
+
+Generic options
+  trace_report_suffix        : 2026-10-28_00-40-16
+
+Reproducibility options
+  megahit_fix_cpu_1          : true
+  spades_fix_cpus            : 1
+
+Taxonomic profiling options
+  cat_db                     : https://raw.githubusercontent.com/nf-core/test-datasets/mag/databases/cat/minigut_cat.tar.gz
+  cat_classify_unbinned      : true
+  cat_no_suggestive_asterisks: true
+  gtdb_db                    : https://raw.githubusercontent.com/nf-core/test-datasets/mag/databases/gtdbtk/gtdbtk_mockup_r232_20260507.tar.gz
+  gtdbtk_min_completeness    : 0.01
+  gtdbtk_min_perc_aa         : 10
+  gtdbtk_use_full_tree       : true
+  gtdbtk_place_species       : true
+
+Assembly options
+  skip_ale                   : true
+
+Gene prediction and annotation options
+  prokka_fast_mode           : true
+
+Binning options
+  skip_concoct               : true
+  skip_comebin               : true
+  skip_metabinner            : true
+  min_length_unbinned_contigs: 1
+  max_unbinned_contigs       : 2
+
+Bin quality check options
+  busco_db                   : https://raw.githubusercontent.com/nf-core/test-datasets/mag/databases/busco/bacteria_odb10.2024-01-08.tar.gz
+  busco_db_lineage           : bacteria_odb10
+  busco_clean                : true
+
+Core Nextflow options
+  revision                   : main
+  runName                    : boring_kalam
+  containerEngine            : docker
+  launchDir                  : /home/hhftang/Projects/nextflow/mag-test
+  workDir                    : /home/hhftang/Projects/nextflow/mag-test/work
+  projectDir                 : /home/hhftang/.nextflow/assets/.repos/nf-core/mag/clones/db7772f748fd160aabc0e7fde40c15ea8f388664
+  userName                   : hhftang
+  profile                    : docker,test
+  configFiles                : /home/hhftang/.nextflow/assets/.repos/nf-core/mag/clones/db7772f748fd160aabc0e7fde40c15ea8f388664/nextflow.config

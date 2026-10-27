@@ -1,0 +1,132 @@
+test_minigut_run1_raw_1:
+  '%GC': 46.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_run1_raw_1.gz
+  Sequence length: 126.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 6.3 Mbp
+  Total Sequences: 50000.0
+  adapter_content: pass
+  avg_sequence_length: 126.0
+  basic_statistics: pass
+  median_sequence_length: 126
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 98.67
+test_minigut_run1_raw_2:
+  '%GC': 46.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_run1_raw_2.gz
+  Sequence length: 126.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 6.3 Mbp
+  Total Sequences: 50000.0
+  adapter_content: pass
+  avg_sequence_length: 126.0
+  basic_statistics: pass
+  median_sequence_length: 126
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 98.79400000000001
+test_minigut_run2_raw_1:
+  '%GC': 46.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_run2_raw_1.gz
+  Sequence length: 126.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 6.3 Mbp
+  Total Sequences: 50000.0
+  adapter_content: pass
+  avg_sequence_length: 126.0
+  basic_statistics: pass
+  median_sequence_length: 126
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 98.67
+test_minigut_run2_raw_2:
+  '%GC': 46.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_run2_raw_2.gz
+  Sequence length: 126.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 6.3 Mbp
+  Total Sequences: 50000.0
+  adapter_content: pass
+  avg_sequence_length: 126.0
+  basic_statistics: pass
+  median_sequence_length: 126
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 98.79400000000001
+test_minigut_sample2_run0_raw_1:
+  '%GC': 40.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_sample2_run0_raw_1.gz
+  Sequence length: 151.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 3.7 Mbp
+  Total Sequences: 24993.0
+  adapter_content: pass
+  avg_sequence_length: 151.0
+  basic_statistics: pass
+  median_sequence_length: 151
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: fail
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 99.79594286400192
+test_minigut_sample2_run0_raw_2:
+  '%GC': 40.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: test_minigut_sample2_run0_raw_2.gz
+  Sequence length: 151.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 3.7 Mbp
+  Total Sequences: 24993.0
+  adapter_content: pass
+  avg_sequence_length: 151.0
+  basic_statistics: pass
+  median_sequence_length: 151
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: pass
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: fail
+  per_sequence_quality_scores: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 99.84795742807987

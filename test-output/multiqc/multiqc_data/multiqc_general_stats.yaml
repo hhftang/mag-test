@@ -1,0 +1,448 @@
+MEGAHIT-MaxBin2-test_minigut.001:
+  prokka-CDS: 735
+  prokka-bases: 905798
+  prokka-contigs: 58
+  prokka-organism: Genus species
+  quast_bins-N50: 27.060000000000002
+  quast_bins-Total_length: 0.905798
+MEGAHIT-MaxBin2-test_minigut.001.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+MEGAHIT-MaxBin2-test_minigut.002:
+  prokka-CDS: 760
+  prokka-bases: 813006
+  prokka-contigs: 146
+  prokka-organism: Genus species
+  quast_bins-N50: 7.392
+  quast_bins-Total_length: 0.813006
+MEGAHIT-MaxBin2-test_minigut.002.fa:
+  gtdb_tk-classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+MEGAHIT-MetaBAT2-test_minigut.1:
+  prokka-CDS: 708
+  prokka-bases: 753319
+  prokka-contigs: 124
+  prokka-organism: Genus species
+  quast_bins-N50: 7.909
+  quast_bins-Total_length: 0.753319
+MEGAHIT-MetaBAT2-test_minigut.1.fa:
+  gtdb_tk-classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+MEGAHIT-MetaBAT2-test_minigut.2:
+  prokka-CDS: 622
+  prokka-bases: 791870
+  prokka-contigs: 39
+  prokka-organism: Genus species
+  quast_bins-N50: 27.638
+  quast_bins-Total_length: 0.79187
+MEGAHIT-MetaBAT2-test_minigut.2.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  prokka-CDS: 24
+  prokka-bases: 27154
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 27.154
+  quast_bins-Total_length: 0.027153999999999998
+MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  prokka-CDS: 25
+  prokka-bases: 21290
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 21.29
+  quast_bins-Total_length: 0.02129
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  prokka-bases: 6451
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 6.4510000000000005
+  quast_bins-Total_length: 0.006451
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  prokka-bases: 3252
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 3.2520000000000002
+  quast_bins-Total_length: 0.0032519999999999997
+MEGAHIT-SemiBin2-test_minigut_0:
+  prokka-CDS: 1511
+  prokka-bases: 1705557
+  prokka-contigs: 193
+  prokka-organism: Genus species
+  quast_bins-N50: 12.973
+  quast_bins-Total_length: 1.705557
+MEGAHIT-SemiBin2-test_minigut_0.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__;g__;s__
+MEGAHIT-test_minigut:
+  bowtie2_assembly-overall_alignment_rate: 99.84
+  quast_assembly-N50: 12.724
+  quast_assembly-Total_length: 1.732492
+MEGAHIT-test_minigut-test_minigut_sample2:
+  bowtie2_assembly-overall_alignment_rate: 0.54
+MEGAHIT-test_minigut_sample2:
+  bowtie2_assembly-overall_alignment_rate: 20.46
+  quast_assembly-N50: 0.677
+  quast_assembly-Total_length: 0.280746
+MEGAHIT-test_minigut_sample2-test_minigut:
+  bowtie2_assembly-overall_alignment_rate: 0.06
+SPAdes-MaxBin2-test_minigut.001:
+  prokka-CDS: 728
+  prokka-bases: 886182
+  prokka-contigs: 5
+  prokka-organism: Genus species
+  quast_bins-N50: 874.975
+  quast_bins-Total_length: 0.8861819999999999
+SPAdes-MaxBin2-test_minigut.001.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+SPAdes-MaxBin2-test_minigut.002:
+  prokka-CDS: 817
+  prokka-bases: 851924
+  prokka-contigs: 31
+  prokka-organism: Genus species
+  quast_bins-N50: 37.607
+  quast_bins-Total_length: 0.851924
+SPAdes-MaxBin2-test_minigut.002.fa:
+  gtdb_tk-classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+SPAdes-MaxBin2-test_minigut_sample2.001:
+  prokka-CDS: 205
+  prokka-bases: 183143
+  prokka-contigs: 117
+  prokka-organism: Genus species
+  quast_bins-N50: 1.5230000000000001
+  quast_bins-Total_length: 0.183143
+SPAdes-MaxBin2-test_minigut_sample2.001.fa:
+  gtdb_tk-classification: Unclassified Bacteria
+SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  prokka-bases: 2705
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 2.705
+  quast_bins-Total_length: 0.002705
+SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  prokka-bases: 2461
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 2.461
+  quast_bins-Total_length: 0.002461
+SPAdes-MetaBAT2-test_minigut.1:
+  prokka-CDS: 769
+  prokka-bases: 795938
+  prokka-contigs: 22
+  prokka-organism: Genus species
+  quast_bins-N50: 40.446
+  quast_bins-Total_length: 0.7959379999999999
+SPAdes-MetaBAT2-test_minigut.1.fa:
+  gtdb_tk-classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+SPAdes-MetaBAT2-test_minigut.2:
+  prokka-CDS: 714
+  prokka-bases: 874975
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 874.975
+  quast_bins-Total_length: 0.874975
+SPAdes-MetaBAT2-test_minigut.2.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  prokka-bases: 17550
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 17.55
+  quast_bins-Total_length: 0.01755
+SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  prokka-bases: 17117
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 17.117
+  quast_bins-Total_length: 0.017117
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  prokka-bases: 7629
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 7.6290000000000004
+  quast_bins-Total_length: 0.0076289999999999995
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  prokka-bases: 6451
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 6.4510000000000005
+  quast_bins-Total_length: 0.006451
+SPAdes-SemiBin2-test_minigut_0:
+  prokka-CDS: 714
+  prokka-bases: 874975
+  prokka-contigs: 1
+  prokka-organism: Genus species
+  quast_bins-N50: 874.975
+  quast_bins-Total_length: 0.874975
+SPAdes-SemiBin2-test_minigut_0.fa:
+  gtdb_tk-classification: d__Bacteria;p__Bacillota;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__;s__
+SPAdes-SemiBin2-test_minigut_1:
+  prokka-CDS: 809
+  prokka-bases: 844008
+  prokka-contigs: 26
+  prokka-organism: Genus species
+  quast_bins-N50: 37.607
+  quast_bins-Total_length: 0.844008
+SPAdes-SemiBin2-test_minigut_1.fa:
+  gtdb_tk-classification: d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia
+    coli
+SPAdes-test_minigut:
+  bowtie2_assembly-overall_alignment_rate: 99.88
+  quast_assembly-N50: 874.975
+  quast_assembly-Total_length: 1.738106
+SPAdes-test_minigut-test_minigut_sample2:
+  bowtie2_assembly-overall_alignment_rate: 0.54
+SPAdes-test_minigut_sample2:
+  bowtie2_assembly-overall_alignment_rate: 48.46
+  quast_assembly-N50: 0.961
+  quast_assembly-Total_length: 0.606076
+SPAdes-test_minigut_sample2-test_minigut:
+  bowtie2_assembly-overall_alignment_rate: 0.11
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.001:
+  busco-complete: 24.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 24.0
+  busco-fragmented: 1.0
+  busco-missing: 99.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.002:
+  busco-complete: 17.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 17.0
+  busco-fragmented: 6.0
+  busco-missing: 101.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.1:
+  busco-complete: 15.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 15.0
+  busco-fragmented: 4.0
+  busco-missing: 105.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.2:
+  busco-complete: 24.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 24.0
+  busco-fragmented: 0.0
+  busco-missing: 100.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 1.0
+  busco-missing: 123.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-SemiBin2-test_minigut_0:
+  busco-complete: 35.0
+  busco-complete_duplicated: 3.0
+  busco-complete_single_copy: 32.0
+  busco-fragmented: 4.0
+  busco-missing: 85.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.001:
+  busco-complete: 25.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 25.0
+  busco-fragmented: 2.0
+  busco-missing: 97.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.002:
+  busco-complete: 17.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 17.0
+  busco-fragmented: 4.0
+  busco-missing: 103.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.001:
+  busco-complete: 3.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 3.0
+  busco-fragmented: 6.0
+  busco-missing: 115.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.1:
+  busco-complete: 17.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 17.0
+  busco-fragmented: 3.0
+  busco-missing: 104.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.2:
+  busco-complete: 25.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 25.0
+  busco-fragmented: 2.0
+  busco-missing: 97.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 1.0
+  busco-missing: 123.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  busco-complete: 0.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 0.0
+  busco-fragmented: 0.0
+  busco-missing: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_0:
+  busco-complete: 25.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 25.0
+  busco-fragmented: 2.0
+  busco-missing: 97.0
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_1:
+  busco-complete: 17.0
+  busco-complete_duplicated: 0.0
+  busco-complete_single_copy: 17.0
+  busco-fragmented: 4.0
+  busco-missing: 103.0
+test_minigut_run1:
+  bowtie2_phix_removal-overall_alignment_rate: 0.0
+  fastp-after_filtering_gc_content: 46.7745
+  fastp-after_filtering_q30_bases: 11.471651999999999
+  fastp-after_filtering_q30_rate: 91.4079
+  fastp-before_filtering_read1_mean_length: 126.0
+  fastp-before_filtering_read2_mean_length: 126.0
+  fastp-filtering_result_passed_filter_reads: 0.09962
+  fastp-pct_adapter: 0.012
+  fastp-pct_duplication: 0.002
+  fastp-pct_surviving: 99.62
+test_minigut_run1_raw_1:
+  fastqc_raw_reads-avg_sequence_length: 126.0
+  fastqc_raw_reads-median_sequence_length: 126
+  fastqc_raw_reads-percent_duplicates: 1.3299999999999983
+  fastqc_raw_reads-percent_fails: 0.0
+  fastqc_raw_reads-percent_gc: 46.0
+  fastqc_raw_reads-total_sequences: 0.049999999999999996
+test_minigut_run1_raw_2:
+  fastqc_raw_reads-avg_sequence_length: 126.0
+  fastqc_raw_reads-median_sequence_length: 126
+  fastqc_raw_reads-percent_duplicates: 1.2059999999999889
+  fastqc_raw_reads-percent_fails: 0.0
+  fastqc_raw_reads-percent_gc: 46.0
+  fastqc_raw_reads-total_sequences: 0.049999999999999996
+test_minigut_run1_trimmed_1:
+  fastqc_after_preprocessing-avg_sequence_length: 126.48000401525798
+  fastqc_after_preprocessing-median_sequence_length: 126
+  fastqc_after_preprocessing-percent_duplicates: 1.3210198755270142
+  fastqc_after_preprocessing-percent_fails: 0.0
+  fastqc_after_preprocessing-percent_gc: 46.0
+  fastqc_after_preprocessing-total_sequences: 0.04981
+test_minigut_run1_trimmed_2:
+  fastqc_after_preprocessing-avg_sequence_length: 126.47446295924513
+  fastqc_after_preprocessing-median_sequence_length: 126
+  fastqc_after_preprocessing-percent_duplicates: 1.2045773940975693
+  fastqc_after_preprocessing-percent_fails: 0.0
+  fastqc_after_preprocessing-percent_gc: 46.0
+  fastqc_after_preprocessing-total_sequences: 0.04981
+test_minigut_run2:
+  bowtie2_phix_removal-overall_alignment_rate: 0.0
+  fastp-after_filtering_gc_content: 46.7745
+  fastp-after_filtering_q30_bases: 11.471651999999999
+  fastp-after_filtering_q30_rate: 91.4079
+  fastp-before_filtering_read1_mean_length: 126.0
+  fastp-before_filtering_read2_mean_length: 126.0
+  fastp-filtering_result_passed_filter_reads: 0.09962
+  fastp-pct_adapter: 0.012
+  fastp-pct_duplication: 0.002
+  fastp-pct_surviving: 99.62
+test_minigut_run2_raw_1:
+  fastqc_raw_reads-avg_sequence_length: 126.0
+  fastqc_raw_reads-median_sequence_length: 126
+  fastqc_raw_reads-percent_duplicates: 1.3299999999999983
+  fastqc_raw_reads-percent_fails: 0.0
+  fastqc_raw_reads-percent_gc: 46.0
+  fastqc_raw_reads-total_sequences: 0.049999999999999996
+test_minigut_run2_raw_2:
+  fastqc_raw_reads-avg_sequence_length: 126.0
+  fastqc_raw_reads-median_sequence_length: 126
+  fastqc_raw_reads-percent_duplicates: 1.2059999999999889
+  fastqc_raw_reads-percent_fails: 0.0
+  fastqc_raw_reads-percent_gc: 46.0
+  fastqc_raw_reads-total_sequences: 0.049999999999999996
+test_minigut_run2_trimmed_1:
+  fastqc_after_preprocessing-avg_sequence_length: 126.48000401525798
+  fastqc_after_preprocessing-median_sequence_length: 126
+  fastqc_after_preprocessing-percent_duplicates: 1.3210198755270142
+  fastqc_after_preprocessing-percent_fails: 0.0
+  fastqc_after_preprocessing-percent_gc: 46.0
+  fastqc_after_preprocessing-total_sequences: 0.04981
+test_minigut_run2_trimmed_2:
+  fastqc_after_preprocessing-avg_sequence_length: 126.47446295924513
+  fastqc_after_preprocessing-median_sequence_length: 126
+  fastqc_after_preprocessing-percent_duplicates: 1.2045773940975693
+  fastqc_after_preprocessing-percent_fails: 0.0
+  fastqc_after_preprocessing-percent_gc: 46.0
+  fastqc_after_preprocessing-total_sequences: 0.04981
+test_minigut_sample2_run0:
+  bowtie2_phix_removal-overall_alignment_rate: 0.0
+  fastp-after_filtering_gc_content: 40.4987
+  fastp-after_filtering_q30_bases: 7.044974
+  fastp-after_filtering_q30_rate: 93.386
+  fastp-before_filtering_read1_mean_length: 151.0
+  fastp-before_filtering_read2_mean_length: 151.0
+  fastp-filtering_result_passed_filter_reads: 0.049977999999999995
+  fastp-pct_adapter: 0.06001680470531749
+  fastp-pct_duplication: 0.0
+  fastp-pct_surviving: 99.98399551874525
+test_minigut_sample2_run0_raw_1:
+  fastqc_raw_reads-avg_sequence_length: 151.0
+  fastqc_raw_reads-median_sequence_length: 151
+  fastqc_raw_reads-percent_duplicates: 0.2040571359980845
+  fastqc_raw_reads-percent_fails: 10.0
+  fastqc_raw_reads-percent_gc: 40.0
+  fastqc_raw_reads-total_sequences: 0.024992999999999998
+test_minigut_sample2_run0_raw_2:
+  fastqc_raw_reads-avg_sequence_length: 151.0
+  fastqc_raw_reads-median_sequence_length: 151
+  fastqc_raw_reads-percent_duplicates: 0.15204257192013415
+  fastqc_raw_reads-percent_fails: 10.0
+  fastqc_raw_reads-percent_gc: 40.0
+  fastqc_raw_reads-total_sequences: 0.024992999999999998
+test_minigut_sample2_run0_trimmed_1:
+  fastqc_after_preprocessing-avg_sequence_length: 150.96078274440754
+  fastqc_after_preprocessing-median_sequence_length: 151
+  fastqc_after_preprocessing-percent_duplicates: 0.20408979951179163
+  fastqc_after_preprocessing-percent_fails: 10.0
+  fastqc_after_preprocessing-percent_gc: 40.0
+  fastqc_after_preprocessing-total_sequences: 0.024988999999999997
+test_minigut_sample2_run0_trimmed_2:
+  fastqc_after_preprocessing-avg_sequence_length: 150.93301052463084
+  fastqc_after_preprocessing-median_sequence_length: 151
+  fastqc_after_preprocessing-percent_duplicates: 0.15206690944015122
+  fastqc_after_preprocessing-percent_fails: 10.0
+  fastqc_after_preprocessing-percent_gc: 40.0
+  fastqc_after_preprocessing-total_sequences: 0.024988999999999997

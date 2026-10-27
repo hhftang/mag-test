@@ -1,0 +1,528 @@
+MEGAHIT-MaxBin2-test_minigut.001:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 58.0
+  '# contigs (>= 0 bp)': 58.0
+  '# contigs (>= 1000 bp)': 58.0
+  '# contigs (>= 10000 bp)': 26.0
+  '# contigs (>= 25000 bp)': 10.0
+  '# contigs (>= 5000 bp)': 38.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 43.06
+  L50: 9.0
+  L75: 20.0
+  Largest contig: 94357.0
+  N50: 27060.0
+  N75: 15690.0
+  Total length: 905798.0
+  Total length (>= 0 bp): 905798.0
+  Total length (>= 1000 bp): 905798.0
+  Total length (>= 10000 bp): 753654.0
+  Total length (>= 25000 bp): 483587.0
+  Total length (>= 5000 bp): 847660.0
+  Total length (>= 50000 bp): 301960.0
+MEGAHIT-MaxBin2-test_minigut.002:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 146.0
+  '# contigs (>= 0 bp)': 146.0
+  '# contigs (>= 1000 bp)': 146.0
+  '# contigs (>= 10000 bp)': 17.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 60.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 52.06
+  L50: 36.0
+  L75: 72.0
+  Largest contig: 20088.0
+  N50: 7392.0
+  N75: 4444.0
+  Total length: 813006.0
+  Total length (>= 0 bp): 813006.0
+  Total length (>= 1000 bp): 813006.0
+  Total length (>= 10000 bp): 241790.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 556190.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-MetaBAT2-test_minigut.1:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 124.0
+  '# contigs (>= 0 bp)': 124.0
+  '# contigs (>= 1000 bp)': 124.0
+  '# contigs (>= 10000 bp)': 17.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 56.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 51.86
+  L50: 32.0
+  L75: 64.0
+  Largest contig: 20088.0
+  N50: 7909.0
+  N75: 4610.0
+  Total length: 753319.0
+  Total length (>= 0 bp): 753319.0
+  Total length (>= 1000 bp): 753319.0
+  Total length (>= 10000 bp): 241790.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 530062.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-MetaBAT2-test_minigut.2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 39.0
+  '# contigs (>= 0 bp)': 39.0
+  '# contigs (>= 1000 bp)': 39.0
+  '# contigs (>= 10000 bp)': 23.0
+  '# contigs (>= 25000 bp)': 9.0
+  '# contigs (>= 5000 bp)': 33.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 43.27
+  L50: 7.0
+  L75: 16.0
+  Largest contig: 94357.0
+  N50: 27638.0
+  N75: 17071.0
+  Total length: 791870.0
+  Total length (>= 0 bp): 791870.0
+  Total length (>= 1000 bp): 791870.0
+  Total length (>= 10000 bp): 692486.0
+  Total length (>= 25000 bp): 456433.0
+  Total length (>= 5000 bp): 771056.0
+  Total length (>= 50000 bp): 301960.0
+MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 1.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 47.94
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 27154.0
+  N50: 27154.0
+  N75: 27154.0
+  Total length: 27154.0
+  Total length (>= 0 bp): 27154.0
+  Total length (>= 1000 bp): 27154.0
+  Total length (>= 10000 bp): 27154.0
+  Total length (>= 25000 bp): 27154.0
+  Total length (>= 5000 bp): 27154.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 35.33
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 21290.0
+  N50: 21290.0
+  N75: 21290.0
+  Total length: 21290.0
+  Total length (>= 0 bp): 21290.0
+  Total length (>= 1000 bp): 21290.0
+  Total length (>= 10000 bp): 21290.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 21290.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 46.83
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 6451.0
+  N50: 6451.0
+  N75: 6451.0
+  Total length: 6451.0
+  Total length (>= 0 bp): 6451.0
+  Total length (>= 1000 bp): 6451.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 6451.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 0.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 40.01
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 3252.0
+  N50: 3252.0
+  N75: 3252.0
+  Total length: 3252.0
+  Total length (>= 0 bp): 3252.0
+  Total length (>= 1000 bp): 3252.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 0.0
+  Total length (>= 50000 bp): 0.0
+MEGAHIT-SemiBin2-test_minigut_0:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 193.0
+  '# contigs (>= 0 bp)': 193.0
+  '# contigs (>= 1000 bp)': 193.0
+  '# contigs (>= 10000 bp)': 43.0
+  '# contigs (>= 25000 bp)': 10.0
+  '# contigs (>= 5000 bp)': 98.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 47.29
+  L50: 31.0
+  L75: 77.0
+  Largest contig: 94357.0
+  N50: 12973.0
+  N75: 6589.0
+  Total length: 1705557.0
+  Total length (>= 0 bp): 1705557.0
+  Total length (>= 1000 bp): 1705557.0
+  Total length (>= 10000 bp): 995444.0
+  Total length (>= 25000 bp): 483587.0
+  Total length (>= 5000 bp): 1403850.0
+  Total length (>= 50000 bp): 301960.0
+SPAdes-MaxBin2-test_minigut.001:
+  '# N''s per 100 kbp': 28.21
+  '# contigs': 5.0
+  '# contigs (>= 0 bp)': 5.0
+  '# contigs (>= 1000 bp)': 5.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 1.0
+  '# contigs (>= 5000 bp)': 2.0
+  '# contigs (>= 50000 bp)': 1.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 43.26
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 874975.0
+  N50: 874975.0
+  N75: 874975.0
+  Total length: 886182.0
+  Total length (>= 0 bp): 886182.0
+  Total length (>= 1000 bp): 886182.0
+  Total length (>= 10000 bp): 874975.0
+  Total length (>= 25000 bp): 874975.0
+  Total length (>= 5000 bp): 880187.0
+  Total length (>= 50000 bp): 874975.0
+SPAdes-MaxBin2-test_minigut.002:
+  '# N''s per 100 kbp': 224.2
+  '# contigs': 31.0
+  '# contigs (>= 0 bp)': 31.0
+  '# contigs (>= 1000 bp)': 31.0
+  '# contigs (>= 10000 bp)': 21.0
+  '# contigs (>= 25000 bp)': 14.0
+  '# contigs (>= 5000 bp)': 25.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 51.63
+  L50: 7.0
+  L75: 13.0
+  Largest contig: 126407.0
+  N50: 37607.0
+  N75: 31969.0
+  Total length: 851924.0
+  Total length (>= 0 bp): 851924.0
+  Total length (>= 1000 bp): 851924.0
+  Total length (>= 10000 bp): 802752.0
+  Total length (>= 25000 bp): 677786.0
+  Total length (>= 5000 bp): 839111.0
+  Total length (>= 50000 bp): 322426.0
+SPAdes-MaxBin2-test_minigut_sample2.001:
+  '# N''s per 100 kbp': 5756.16
+  '# contigs': 117.0
+  '# contigs (>= 0 bp)': 117.0
+  '# contigs (>= 1000 bp)': 117.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 3.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 41.83
+  L50: 40.0
+  L75: 75.0
+  Largest contig: 7629.0
+  N50: 1523.0
+  N75: 1159.0
+  Total length: 183143.0
+  Total length (>= 0 bp): 183143.0
+  Total length (>= 1000 bp): 183143.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 20030.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  '# N''s per 100 kbp': 739.37
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 0.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 33.97
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 2705.0
+  N50: 2705.0
+  N75: 2705.0
+  Total length: 2705.0
+  Total length (>= 0 bp): 2705.0
+  Total length (>= 1000 bp): 2705.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 0.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  '# N''s per 100 kbp': 406.34
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 0.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 35.13
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 2461.0
+  N50: 2461.0
+  N75: 2461.0
+  Total length: 2461.0
+  Total length (>= 0 bp): 2461.0
+  Total length (>= 1000 bp): 2461.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 0.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MetaBAT2-test_minigut.1:
+  '# N''s per 100 kbp': 208.06
+  '# contigs': 22.0
+  '# contigs (>= 0 bp)': 22.0
+  '# contigs (>= 1000 bp)': 22.0
+  '# contigs (>= 10000 bp)': 19.0
+  '# contigs (>= 25000 bp)': 14.0
+  '# contigs (>= 5000 bp)': 22.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 51.45
+  L50: 6.0
+  L75: 12.0
+  Largest contig: 126407.0
+  N50: 40446.0
+  N75: 32573.0
+  Total length: 795938.0
+  Total length (>= 0 bp): 795938.0
+  Total length (>= 1000 bp): 795938.0
+  Total length (>= 10000 bp): 768085.0
+  Total length (>= 25000 bp): 677786.0
+  Total length (>= 5000 bp): 795938.0
+  Total length (>= 50000 bp): 322426.0
+SPAdes-MetaBAT2-test_minigut.2:
+  '# N''s per 100 kbp': 27.43
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 1.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 1.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 43.28
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 874975.0
+  N50: 874975.0
+  N75: 874975.0
+  Total length: 874975.0
+  Total length (>= 0 bp): 874975.0
+  Total length (>= 1000 bp): 874975.0
+  Total length (>= 10000 bp): 874975.0
+  Total length (>= 25000 bp): 874975.0
+  Total length (>= 5000 bp): 874975.0
+  Total length (>= 50000 bp): 874975.0
+SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  '# N''s per 100 kbp': 1447.29
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 55.54
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 17550.0
+  N50: 17550.0
+  N75: 17550.0
+  Total length: 17550.0
+  Total length (>= 0 bp): 17550.0
+  Total length (>= 1000 bp): 17550.0
+  Total length (>= 10000 bp): 17550.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 17550.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 54.51
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 17117.0
+  N50: 17117.0
+  N75: 17117.0
+  Total length: 17117.0
+  Total length (>= 0 bp): 17117.0
+  Total length (>= 1000 bp): 17117.0
+  Total length (>= 10000 bp): 17117.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 17117.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  '# N''s per 100 kbp': 3198.32
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 40.03
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 7629.0
+  N50: 7629.0
+  N75: 7629.0
+  Total length: 7629.0
+  Total length (>= 0 bp): 7629.0
+  Total length (>= 1000 bp): 7629.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 7629.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 0.0
+  '# contigs (>= 25000 bp)': 0.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 0.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 46.83
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 6451.0
+  N50: 6451.0
+  N75: 6451.0
+  Total length: 6451.0
+  Total length (>= 0 bp): 6451.0
+  Total length (>= 1000 bp): 6451.0
+  Total length (>= 10000 bp): 0.0
+  Total length (>= 25000 bp): 0.0
+  Total length (>= 5000 bp): 6451.0
+  Total length (>= 50000 bp): 0.0
+SPAdes-SemiBin2-test_minigut_0:
+  '# N''s per 100 kbp': 27.43
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 1.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 1.0
+  '# predicted rRNA genes': 0.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 43.28
+  L50: 1.0
+  L75: 1.0
+  Largest contig: 874975.0
+  N50: 874975.0
+  N75: 874975.0
+  Total length: 874975.0
+  Total length (>= 0 bp): 874975.0
+  Total length (>= 1000 bp): 874975.0
+  Total length (>= 10000 bp): 874975.0
+  Total length (>= 25000 bp): 874975.0
+  Total length (>= 5000 bp): 874975.0
+  Total length (>= 50000 bp): 874975.0
+SPAdes-SemiBin2-test_minigut_1:
+  '# N''s per 100 kbp': 226.3
+  '# contigs': 26.0
+  '# contigs (>= 0 bp)': 26.0
+  '# contigs (>= 1000 bp)': 26.0
+  '# contigs (>= 10000 bp)': 21.0
+  '# contigs (>= 25000 bp)': 14.0
+  '# contigs (>= 5000 bp)': 25.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# predicted rRNA genes': 3.0
+  '# predicted rRNA genes_partial': 0.0
+  GC (%): 51.66
+  L50: 7.0
+  L75: 13.0
+  Largest contig: 126407.0
+  N50: 37607.0
+  N75: 31969.0
+  Total length: 844008.0
+  Total length (>= 0 bp): 844008.0
+  Total length (>= 1000 bp): 844008.0
+  Total length (>= 10000 bp): 802752.0
+  Total length (>= 25000 bp): 677786.0
+  Total length (>= 5000 bp): 839111.0
+  Total length (>= 50000 bp): 322426.0

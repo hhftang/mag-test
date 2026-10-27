@@ -1,0 +1,21 @@
+test_minigut_run1:
+  Low Complexity: nan
+  Low Quality: '380.0'
+  Passed Filter: '99620.0'
+  Too Long: '0.0'
+  Too Many N: '0.0'
+  Too Short: '0.0'
+test_minigut_run2:
+  Low Complexity: nan
+  Low Quality: '380.0'
+  Passed Filter: '99620.0'
+  Too Long: '0.0'
+  Too Many N: '0.0'
+  Too Short: '0.0'
+test_minigut_sample2_run0:
+  Low Complexity: nan
+  Low Quality: '6.0'
+  Passed Filter: '49978.0'
+  Too Long: '0.0'
+  Too Many N: '2.0'
+  Too Short: '0.0'

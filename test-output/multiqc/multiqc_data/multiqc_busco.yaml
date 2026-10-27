@@ -1,0 +1,176 @@
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.001:
+  complete: 24.0
+  complete_duplicated: 0.0
+  complete_single_copy: 24.0
+  fragmented: 1.0
+  lineage_dataset: bacteria_odb10
+  missing: 99.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.002:
+  complete: 17.0
+  complete_duplicated: 0.0
+  complete_single_copy: 17.0
+  fragmented: 6.0
+  lineage_dataset: bacteria_odb10
+  missing: 101.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.1:
+  complete: 15.0
+  complete_duplicated: 0.0
+  complete_single_copy: 15.0
+  fragmented: 4.0
+  lineage_dataset: bacteria_odb10
+  missing: 105.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.2:
+  complete: 24.0
+  complete_duplicated: 0.0
+  complete_single_copy: 24.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 100.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 1.0
+  lineage_dataset: bacteria_odb10
+  missing: 123.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.MEGAHIT-SemiBin2-test_minigut_0:
+  complete: 35.0
+  complete_duplicated: 3.0
+  complete_single_copy: 32.0
+  fragmented: 4.0
+  lineage_dataset: bacteria_odb10
+  missing: 85.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.001:
+  complete: 25.0
+  complete_duplicated: 0.0
+  complete_single_copy: 25.0
+  fragmented: 2.0
+  lineage_dataset: bacteria_odb10
+  missing: 97.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.002:
+  complete: 17.0
+  complete_duplicated: 0.0
+  complete_single_copy: 17.0
+  fragmented: 4.0
+  lineage_dataset: bacteria_odb10
+  missing: 103.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.001:
+  complete: 3.0
+  complete_duplicated: 0.0
+  complete_single_copy: 3.0
+  fragmented: 6.0
+  lineage_dataset: bacteria_odb10
+  missing: 115.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.1:
+  complete: 17.0
+  complete_duplicated: 0.0
+  complete_single_copy: 17.0
+  fragmented: 3.0
+  lineage_dataset: bacteria_odb10
+  missing: 104.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.2:
+  complete: 25.0
+  complete_duplicated: 0.0
+  complete_single_copy: 25.0
+  fragmented: 2.0
+  lineage_dataset: bacteria_odb10
+  missing: 97.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 1.0
+  lineage_dataset: bacteria_odb10
+  missing: 123.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  complete: 0.0
+  complete_duplicated: 0.0
+  complete_single_copy: 0.0
+  fragmented: 0.0
+  lineage_dataset: bacteria_odb10
+  missing: 124.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_0:
+  complete: 25.0
+  complete_duplicated: 0.0
+  complete_single_copy: 25.0
+  fragmented: 2.0
+  lineage_dataset: bacteria_odb10
+  missing: 97.0
+  total: 124.0
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_1:
+  complete: 17.0
+  complete_duplicated: 0.0
+  complete_single_copy: 17.0
+  fragmented: 4.0
+  lineage_dataset: bacteria_odb10
+  missing: 103.0
+  total: 124.0

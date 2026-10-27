@@ -1,0 +1,110 @@
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.001:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '24.0'
+  Fragmented BUSCOs: '1.0'
+  Missing BUSCOs: '99.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MaxBin2-test_minigut.002:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '17.0'
+  Fragmented BUSCOs: '6.0'
+  Missing BUSCOs: '101.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '15.0'
+  Fragmented BUSCOs: '4.0'
+  Missing BUSCOs: '105.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '24.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '100.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '1.0'
+  Missing BUSCOs: '123.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.MEGAHIT-SemiBin2-test_minigut_0:
+  Complete and duplicated BUSCOs: '3.0'
+  Complete and single-copy BUSCOs: '32.0'
+  Fragmented BUSCOs: '4.0'
+  Missing BUSCOs: '85.0'
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.001:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '25.0'
+  Fragmented BUSCOs: '2.0'
+  Missing BUSCOs: '97.0'
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut.002:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '17.0'
+  Fragmented BUSCOs: '4.0'
+  Missing BUSCOs: '103.0'
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.001:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '3.0'
+  Fragmented BUSCOs: '6.0'
+  Missing BUSCOs: '115.0'
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '17.0'
+  Fragmented BUSCOs: '3.0'
+  Missing BUSCOs: '104.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '25.0'
+  Fragmented BUSCOs: '2.0'
+  Missing BUSCOs: '97.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '1.0'
+  Missing BUSCOs: '123.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '0.0'
+  Fragmented BUSCOs: '0.0'
+  Missing BUSCOs: '124.0'
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_0:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '25.0'
+  Fragmented BUSCOs: '2.0'
+  Missing BUSCOs: '97.0'
+short_summary.specific.bacteria_odb10.SPAdes-SemiBin2-test_minigut_1:
+  Complete and duplicated BUSCOs: '0.0'
+  Complete and single-copy BUSCOs: '17.0'
+  Fragmented BUSCOs: '4.0'
+  Missing BUSCOs: '103.0'

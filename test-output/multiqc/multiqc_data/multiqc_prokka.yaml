@@ -1,0 +1,126 @@
+MEGAHIT-MaxBin2-test_minigut.001:
+  CDS: 735
+  bases: 905798
+  contigs: 58
+  organism: Genus species
+  tRNA: 11
+MEGAHIT-MaxBin2-test_minigut.002:
+  CDS: 760
+  bases: 813006
+  contigs: 146
+  organism: Genus species
+  rRNA: 3
+  tRNA: 9
+MEGAHIT-MetaBAT2-test_minigut.1:
+  CDS: 708
+  bases: 753319
+  contigs: 124
+  organism: Genus species
+  rRNA: 3
+  tRNA: 9
+MEGAHIT-MetaBAT2-test_minigut.2:
+  CDS: 622
+  bases: 791870
+  contigs: 39
+  organism: Genus species
+  tRNA: 8
+MEGAHIT-MetaBAT2-test_minigut.unbinned.1:
+  CDS: 24
+  bases: 27154
+  contigs: 1
+  organism: Genus species
+MEGAHIT-MetaBAT2-test_minigut.unbinned.2:
+  CDS: 25
+  bases: 21290
+  contigs: 1
+  organism: Genus species
+  tRNA: 1
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.1:
+  bases: 6451
+  contigs: 1
+  organism: Genus species
+  rRNA: 3
+  tRNA: 2
+MEGAHIT-MetaBAT2-test_minigut_sample2.unbinned.2:
+  bases: 3252
+  contigs: 1
+  organism: Genus species
+MEGAHIT-SemiBin2-test_minigut_0:
+  CDS: 1511
+  bases: 1705557
+  contigs: 193
+  organism: Genus species
+  rRNA: 3
+  tRNA: 20
+SPAdes-MaxBin2-test_minigut.001:
+  CDS: 728
+  bases: 886182
+  contigs: 5
+  organism: Genus species
+  tRNA: 9
+SPAdes-MaxBin2-test_minigut.002:
+  CDS: 817
+  bases: 851924
+  contigs: 31
+  organism: Genus species
+  rRNA: 3
+  tRNA: 12
+SPAdes-MaxBin2-test_minigut_sample2.001:
+  CDS: 205
+  bases: 183143
+  contigs: 117
+  organism: Genus species
+  rRNA: 3
+  tRNA: 2
+SPAdes-MaxBin2-test_minigut_sample2.noclass.1:
+  bases: 2705
+  contigs: 1
+  organism: Genus species
+SPAdes-MaxBin2-test_minigut_sample2.noclass.2:
+  bases: 2461
+  contigs: 1
+  organism: Genus species
+SPAdes-MetaBAT2-test_minigut.1:
+  CDS: 769
+  bases: 795938
+  contigs: 22
+  organism: Genus species
+  rRNA: 3
+  tRNA: 12
+SPAdes-MetaBAT2-test_minigut.2:
+  CDS: 714
+  bases: 874975
+  contigs: 1
+  organism: Genus species
+  tRNA: 9
+SPAdes-MetaBAT2-test_minigut.unbinned.1:
+  bases: 17550
+  contigs: 1
+  organism: Genus species
+SPAdes-MetaBAT2-test_minigut.unbinned.2:
+  bases: 17117
+  contigs: 1
+  organism: Genus species
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.1:
+  bases: 7629
+  contigs: 1
+  organism: Genus species
+SPAdes-MetaBAT2-test_minigut_sample2.unbinned.2:
+  bases: 6451
+  contigs: 1
+  organism: Genus species
+  rRNA: 3
+  tRNA: 2
+SPAdes-SemiBin2-test_minigut_0:
+  CDS: 714
+  bases: 874975
+  contigs: 1
+  organism: Genus species
+  tRNA: 9
+SPAdes-SemiBin2-test_minigut_1:
+  CDS: 809
+  bases: 844008
+  contigs: 26
+  organism: Genus species
+  rRNA: 3
+  tRNA: 12
