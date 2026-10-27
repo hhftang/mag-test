@@ -11,7 +11,6 @@ Due to storage limitations, it does not contain all the files required for and p
 - Basic execution reports of the run in `test-output/pipeline_info/`
 - Multiqc report of the run in `test-output/multiqc/`
 - Taxonomy information in `test-output/taxonomy/`
-- Selected Nextflow scripts from nf-core/mag that describe the pipeline, in `main.nf` and `mag/`.
 
 This text contains my own notes on what each tool and each part of the pipeline does. This was based on manually parsing through and reading the `.command.sh` output for each process, then consulting the documentation.
 
