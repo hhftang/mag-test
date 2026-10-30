@@ -24,7 +24,7 @@ The test run execution reports are given in `execution_log.log` and the various 
 
 ### Input
 
-- Input is the **samplesheet** `sample.multirun.v4.csv`, a file that points to short-read fastq files for samples of the `test_minigut` dataset. This is a minimal and synthetic "minigut" dataset from nf-core/test-datasets, generated from a single genome of Bacteroides fragilis YCH46 (https://github.com/nf-core/test-datasets/tree/mag). It is commonly used for test runs like this one.
+- Input is the **samplesheet** `sample.multirun.v4.csv`, a file that points to short-read fastq files for samples of the `test_minigut` dataset. This is a minimal and synthetic "minigut" dataset from nf-core/test-datasets, generated from a single genome of _Bacteroides fragilis_ YCH46 (https://github.com/nf-core/test-datasets/tree/mag). It is commonly used for test runs like this one.
 
 ### Pre-processing
 
@@ -86,4 +86,31 @@ The test run execution reports are given in `execution_log.log` and the various 
 
 ## Details on Multiqc report
 
-- A mock GTDB-Tk database was used for the test run to facilitate speed of testing. The taxonomical results given are therefore not based in biological reality. (see https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/auxillary_files/gtdbtk_package/mockup_db/HOWTO.txt)
+### Pre-processing
+
+- Three samples (three runs of two samples): `test_minigut_run1` + `test_minigut_run2`, and `test-minigut_sample2_run0`.
+- `test_minigut_run1` and `test_minigut_run2` have same raw read lengths (126 bp). Further scrutiny indicates that they are actually identical, and are henceforth treated as such (Sample 1). Sample 2 (`test-minigut_sample2_run0`) has raw read length of 151 bp.
+- Sequence quality is good (Phred score >30 for all reads), both raw and processed.
+- Fastp quality filtering filtered <1% of reads across all samples. Note that quality threshold criterion was relaxed (15) compared to default (20).
+- Low duplication, with unique sequences accounting for 97% (Sample 1) and 99% and (Sample 2) respectively.
+- No adapter contamination.
+- No substantial shifts in GC content after trimming. Sample 2 has a subset of reads with unusually high per-sequence GC content (~70%).
+- No PhiX reads were identified or removed from the samples.
+
+### Assembly
+
+- For Sample 1, both MEGAHIT and SPAdes produced fewer, longer, contigs with N50 >10kb (12.7 and 875kbp respectively)
+- On the other hand, for Sample 2,  both MEGAHIT and SPAdes produced far more, shorter, contigs with N50 <= 1kb (0.7  and 1.0kbp respectively).
+- SPAdes consistsently produced one single long contig (875 kbp) in Sample 1.
+
+### Binning
+
+- Across all combinations of assembler (MEGAHIT / SPAdes) and binner (MetaBAT2 / MaxBin2 / SemiBin2), there were 12 bins, and 10 unbinned/"no-class" contigs.
+- BUSCO analysis identified that the 12 bins all had multiple complete single-copy BUSCOs (range 3 to 32).
+
+### Annotation
+
+- Prokka annotation detected high number of coding sequences among the 12 bins (range 205 to 1511), with high coding density (>98%). 7 of 12 bins had identified rRNA, and all 12 of 12 bins had identified tRNA.
+- GTDB-Tk annotation "identified" 5 bins as _E. coli_ sp. with high average nucleotide identity (96.8%) and alignment fracton (80%); and 6 bins as _Selenomonadaceae_ family. One bin was unclassifiable due to insufficient number of amino acids in the multiple sequence alignments (MSA) (3.3%).
+- Note however that both the input sequences and the reference GTDB-Tk database used for the test run were mock simulated samples, to facilitate speed of testing. The taxonomical results given are therefore not based in biological reality (see https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/auxillary_files/gtdbtk_package/mockup_db/HOWTO.txt). As described in the Input section, the input reads are actually simulated/synthetic fragments derived from the  _Bacteroides fragilis_ YCH46 genome.
+
