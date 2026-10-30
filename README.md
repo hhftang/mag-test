@@ -12,8 +12,9 @@ Due to storage limitations, it does not contain all the files required for and p
 - Multiqc report of the run in `test-output/multiqc/`
 - Taxonomy information in `test-output/taxonomy/`
 - Selected Nextflow config files from nf-core/mag in `conf/`.
+- Selected Nextflow script files from nf-core/mag in `mag-copy/`. These contain scripts that run the analysses, nested within `/workflows/` and `/subworkflows/`. 
 
-This text contains my own notes on what each tool and each part of the pipeline does. This was based on manually parsing through and reading the `.command.sh` output for each process, then consulting the documentation.
+This readme text contains my own notes on what each tool and each part of the pipeline does. This was done by manually parsing through and reading the `.command.sh` output for each process, then consulting the documentation.
 
 ## Details
 
