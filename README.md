@@ -111,6 +111,6 @@ The test run execution reports are given in `execution_log.log` and the various 
 ### Annotation
 
 - Prokka annotation detected high number of coding sequences among the 12 bins (range 205 to 1511), with high coding density (>98%). 7 of 12 bins had identified rRNA, and all 12 of 12 bins had identified tRNA.
-- GTDB-Tk annotation "identified" 5 bins as _E. coli_ sp. with high average nucleotide identity (96.8%) and alignment fracton (80%); and 6 bins as _Selenomonadaceae_ family. One bin was unclassifiable due to insufficient number of amino acids in the multiple sequence alignments (MSA) (3.3%).
+- GTDB-Tk annotation "identified" 5 bins as _E. coli_ sp. with high average nucleotide identity (ANI 96.8%, threshold >= 95-97%) and alignment fraction (AF 80%, threshold >= 50-65%); and 6 bins as _Selenomonadaceae_ family. One bin was unclassifiable due to insufficient number of amino acids in the multiple sequence alignments (MSA) (3.3%).
 - Note however that both the input sequences and the reference GTDB-Tk database used for the test run were mock simulated samples, to facilitate speed of testing. The taxonomical results given are therefore not based in biological reality (see https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/auxillary_files/gtdbtk_package/mockup_db/HOWTO.txt). As described in the Input section, the input reads are actually simulated/synthetic fragments derived from the  _Bacteroides fragilis_ YCH46 genome.
 
